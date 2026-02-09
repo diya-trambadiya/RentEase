@@ -117,16 +117,16 @@ npm run dev
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" height="350" />
 
 ### Product Listing & Filters
-![Products](screenshots/products.png)
+<img src="screenshots/products.png" height="320" />
 
 ### Product Details & Pricing
-![Product Detail](screenshots/product-detail.png)
+<img src="screenshots/detail.png" height="330" />
 
 ### Cart & Checkout
-![Cart](screenshots/cart.png)
+<img src="screenshots/checkout.png" height="237" />
 
 
 ---
